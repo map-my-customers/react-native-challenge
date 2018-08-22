@@ -17,6 +17,8 @@ https://github.com/reddit/reddit/wiki/JSON
 * Show a list of the posts in the r/pics subreddit
 * Each post must show the following data: thumbnail image (if present), title, author, total number of votes (score), number of comments and date of creation
 * Example layout:
+
+  ![image](https://user-images.githubusercontent.com/636075/44457253-08f22600-a603-11e8-9df2-6db2ea49b222.png)
 * Once the user taps on a post navigate to the post’s URL in a WebView
 * A brief explanation of your design and assumptions along with your code.
 
