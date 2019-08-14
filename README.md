@@ -26,5 +26,7 @@ https://github.com/reddit/reddit/wiki/JSON
 
 * You can use [expo-cli](https://expo.io/learn) to bootstrap your app, or build your app from scratch . Keep in mind that the app must be easily executable.
 * Send us your code in a zip file.
+* Some of the libraries that you could use is react-json-parser, react-redux, redux-sauce for implementing the application
+* You can use ignite to setup the boilerplate for the application
 
 Good luck!
